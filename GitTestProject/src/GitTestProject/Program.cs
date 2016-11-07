@@ -9,6 +9,7 @@ namespace GitTestProject
 {
     public class Program
     {
+        //its cool working with GitHub !!!
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
